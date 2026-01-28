@@ -1,4 +1,4 @@
-name: Keep Old Bee Bot and scraper awake
+name: Keep Old Bee Bot and scraper awake.
 
 on:
   push:
